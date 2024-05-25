@@ -1,2 +1,2 @@
 # spotify-clone
-It's a simple webpage tp play songs.
+It's a simple webpage to play songs.
